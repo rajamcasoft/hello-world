@@ -1,2 +1,1 @@
-console.log("Thanks..");
-"console.log("Good");" 
+console.log("Good");
